@@ -1,5 +1,11 @@
 # tsc
 
+## INSTALL
+
+Run `npm i` in the project's folder.
+
+## RUN
+
 `tsc greeter.ts` to compile a file.
 
 Or (if another file):  
